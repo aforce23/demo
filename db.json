@@ -1,30 +1,82 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
+  "quizdb": [
+    {"quiz" : {
+  "quiz1" : {
+    "question1" : {
+      "correctoption" : "2",
+      "options" : {
+        "option1" : "Town",
+        "option2" : "Borough",
+        "option3" : "Village",
+        "option4" : "State"
+      },
+      "question" : "Somerset is a _____"
     },
-    {
-      "id": 2,
-      "title": "Post 2"
+    "question2" : {
+      "correctoption" : "4",
+      "options" : {
+          "option1" : "XML",
+          "option2" : "YML",
+          "option3" : "HTML",
+          "option4" : "JSX"
+        },
+      "question" : "____ tag syntax is used in React"
     },
-    {
-      "id": 3,
-      "title": "Post 3"
+    "question3" : {
+      "correctoption" : "1",
+      "options" : {
+          "option1" : "Single root DOM node",
+          "option2" : "Double root DOM node",
+          "option3" : "Multiple root DOM node",
+          "option4" : "None of the above"
+        },
+      "question" : "Application built with just React usually have ____"
+    },
+    "question4" : {
+      "correctoption" : "2",
+      "options" : {
+          "option1" : "mutable",
+          "option2" : "immutable",
+          "option3" : "variable",
+          "option4" : "none of the above"
+        },
+      "question" : "React elements are ____"
+    },
+    "question5" : {
+      "correctoption" : "3",
+      "options" : {
+          "option1" : "functions",
+          "option2" : "array",
+          "option3" : "components",
+          "option4" : "json data"
+        },
+      "question" : "React allows to split UI into independent and reusable pieses of ____"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+  },
+  "quiz2" : {
+    "question1" : {
+      "correctoption" : "2",
+      "options" : {
+        "option1" : "option1",
+        "option2" : "option2",
+        "option3" : "option3",
+        "option4" : "option4"
+      },
+      "question" : "Question example text that has a _____ in the middle."
     },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
+    "question2" : {
+      "correctoption" : "1",
+      "options" : {
+          "option1" : "First",
+          "option2" : "Second",
+          "option3" : "Third",
+          "option4" : "Fourth"
+        },
+      "question" : "Iron Man was the ______ marvel movie in the MCU."
+    },
+  }
+}}
+],
   "profile": {
     "name": "aforce23"
   }
