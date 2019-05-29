@@ -1,4 +1,5 @@
-["quiz" : {
+[
+  {"quiz" : {
   "quiz1" : {
     "question1" : {
       "correctoption" : "2",
