@@ -1,10 +1,10 @@
 {
   "quizdb": [
     {
-      "quiz": {
+      "quiz": "{
         "quiz1": "yeet",
         "quiz2": "double-yeet"
-      }
+      }"
     }
   ],
   "profile": {
