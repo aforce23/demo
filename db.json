@@ -1,4 +1,4 @@
-{"quiz" : {
+["quiz" : {
   "quiz1" : {
     "question1" : {
       "correctoption" : "2",
@@ -73,4 +73,4 @@
       "question" : "Iron Man was the ______ marvel movie in the MCU."
     },
   }
-}}
+}]
